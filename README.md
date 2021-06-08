@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on developing pen-testing tools 
 - 🤔 I’m looking for help with learning Metasploit
 - 💬 Ask me about boxing
-- 📫 How to reach me: davidelespanolo@gmail.com
+- 📫 How to reach me: davidocuevas01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was raised in Spain
 -->
