@@ -1,7 +1,7 @@
 ### Greetings my fellow humans!! 👋
 
 - 🔭 I’m currently working on a python based stock trading algorithm
-- 🌱 I’m currently learning Linux and various other cybersecurity tools.
+- 🌱 I’m currently learning Linux and various other cybersecurity tools. I am also attempting to complete my CompTIA Network+
 - 👯 I’m looking to collaborate on developing pen-testing tools 
 - 🤔 I’m looking for help with learning Metasploit
 - 💬 Ask me about boxing
