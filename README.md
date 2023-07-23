@@ -1,11 +1,3 @@
-### Greetings my fellow humans!! 👋
+Hello, I'm, a recent cybersecurity graduate and a current master's student at Western Governors University. With a deep passion for cybersecurity and ethical hacking, I am committed to making a positive impact in the field. As a Vulnerability Analyst specializing in FedRAMP and FISMA audits, I conduct comprehensive vulnerability scans using industry-leading tools such as Tenable Nessus, Burp Suite, and Qualys. I analyze raw scanner output, assess risks, and develop Risk Exposure Tables to aid clients in prioritizing their remediation efforts. I also actively contribute to penetration testing engagements, following NIST Pentest Guidelines to assess a wide range of assets, including web applications, APIs, and infrastructure hosts. I take pride in delivering detailed reports and actionable recommendations that help organizations enhance their security posture. Through my work, I continuously strive to stay ahead of emerging threats and contribute to a safer digital landscape
 
-- 🔭 I’m currently working on a python based stock trading algorithm
-- 🌱 I’m currently learning Linux and various other cybersecurity tools. I am also attempting to complete my CompTIA Security+
-- 👯 I’m looking to collaborate on developing pen-testing tools 
-- 🤔 I’m looking for help with learning Metasploit
-- 💬 Ask me about boxing
-- 📫 How to reach me: davidocuevas01@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was raised in Spain
--->
+Beyond my work and studies, I lead an active lifestyle and find joy in various pursuits. One of my great passions is traveling, which allows me to explore diverse cultures, broaden my horizons, and gain valuable insights into global cybersecurity challenges. When I'm not traveling, you'll often find me out on the trails, indulging in my love for mountain biking. It's a thrilling activity that combines my sense of adventure with the need for precision and quick decision-making, skills that I find transferable to the cybersecurity realm. Additionally, I am an avid practitioner of boxing, which not only keeps me physically fit but also instills discipline, resilience, and the ability to think strategically. These activities outside of work and school contribute to my personal growth and well-rounded approach to life.
