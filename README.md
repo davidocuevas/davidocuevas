@@ -11,7 +11,7 @@
 
 ## What I do
 
-I break things for a living — finding the bugs before someone with worse
+I break things for a living, finding the bugs before someone with worse
 intentions does. **In offensive security since 2021**, day-to-day work
 spanning mobile applications, internal Active Directory environments, and
 cloud red-team operations. I prefer scrappy, on-the-box tooling over uploading
